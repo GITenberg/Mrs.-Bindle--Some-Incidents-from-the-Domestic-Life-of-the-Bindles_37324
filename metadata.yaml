@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1211
     wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37324#Mrs.-Bindle--Some-Incidents-from-the-Domestic-Life-of-the-Bindles
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2011-09-06'
 gutenberg_type: Text
